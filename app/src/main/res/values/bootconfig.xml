@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="remoteAccessConsumerKey">3MVG9g9rbsTkKnAWTBFKvm9FTaF_Dm8MSyKs_N.x2TcMw2EZ2EJrrBQ_8HLT4nvErQTZ_TU8w6mJn0JHuy8Q3</string>
+    <string name="oauthRedirectURI">mysampleapp://auth/success</string>
+    <string-array name="oauthScopes">
+        <item>api</item>
+	<item>web</item>
+    </string-array>
+</resources>
